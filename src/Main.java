@@ -5,6 +5,6 @@ public class Main {
         int z = 6;
         int y = 5;
         int w = 8;
-        System.out.println(x+z-y+w);
+        System.out.println(x+z+y+w);
     }
 }
